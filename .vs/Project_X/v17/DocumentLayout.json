@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|c:\\users\\mr. elvin aliyev\\desktop\\asp projects\\project_x\\project_x\\data\\dsemldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|solutionrelative:project_x\\data\\dsemldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|c:\\users\\mr. elvin aliyev\\desktop\\asp projects\\project_x\\project_x\\controllers\\bcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|solutionrelative:project_x\\controllers\\bcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|c:\\users\\mr. elvin aliyev\\desktop\\asp projects\\project_x\\project_x\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|solutionrelative:project_x\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|c:\\users\\mr. elvin aliyev\\desktop\\asp projects\\project_x\\project_x\\repositories\\sqlbcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|solutionrelative:project_x\\repositories\\sqlbcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|c:\\users\\mr. elvin aliyev\\desktop\\asp projects\\project_x\\project_x\\repositories\\ibcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|solutionrelative:project_x\\repositories\\ibcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|c:\\users\\mr. elvin aliyev\\desktop\\asp projects\\project_x\\project_x\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|solutionrelative:project_x\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DSEMLDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Data\\DSEMLDbContext.cs",
+              "RelativeDocumentMoniker": "Project_X\\Data\\DSEMLDbContext.cs",
+              "ToolTip": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Data\\DSEMLDbContext.cs",
+              "RelativeToolTip": "Project_X\\Data\\DSEMLDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:12:37.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Controllers\\BCategoriesController.cs",
+              "RelativeDocumentMoniker": "Project_X\\Controllers\\BCategoriesController.cs",
+              "ToolTip": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Controllers\\BCategoriesController.cs",
+              "RelativeToolTip": "Project_X\\Controllers\\BCategoriesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:09:52.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Program.cs",
+              "RelativeDocumentMoniker": "Project_X\\Program.cs",
+              "ToolTip": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Program.cs",
+              "RelativeToolTip": "Project_X\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T16:54:02.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Repositories\\IBCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Project_X\\Repositories\\IBCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Repositories\\IBCategoryRepository.cs",
+              "RelativeToolTip": "Project_X\\Repositories\\IBCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T16:53:08.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLBCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Repositories\\SQLBCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Project_X\\Repositories\\SQLBCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Repositories\\SQLBCategoryRepository.cs",
+              "RelativeToolTip": "Project_X\\Repositories\\SQLBCategoryRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T16:53:16.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "Project_X\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "Project_X\\Controllers\\BlogsController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAkwEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T16:16:03.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
