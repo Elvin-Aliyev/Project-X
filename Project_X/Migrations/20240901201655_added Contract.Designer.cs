@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Project_X.Data;
 
@@ -11,9 +12,11 @@ using Project_X.Data;
 namespace Project_X.Migrations
 {
     [DbContext(typeof(DSEMLDbContext))]
-    partial class DSEMLDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240901201655_added Contract")]
+    partial class addedContract
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -78,21 +81,15 @@ namespace Project_X.Migrations
                     b.ToTable("Blogs");
                 });
 
-            modelBuilder.Entity("Project_X.Models.Domain.Contact", b =>
+            modelBuilder.Entity("Project_X.Models.Domain.Contract", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<DateTime>("AnsweredAt")
-                        .HasColumnType("datetime2");
-
                     b.Property<string>("Comment")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<DateTime>("CreatedAt")
-                        .HasColumnType("datetime2");
 
                     b.Property<string>("FullName")
                         .IsRequired()
@@ -108,7 +105,7 @@ namespace Project_X.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Contacts");
+                    b.ToTable("Contracts");
                 });
 
             modelBuilder.Entity("Project_X.Models.Domain.Faq", b =>

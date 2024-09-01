@@ -20,6 +20,8 @@ namespace Project_X.Mappings
             CreateMap<Blog, BlogDto>().ReverseMap();
             CreateMap<Blog, AddBlogRequestDto>().ReverseMap();
             CreateMap<Blog, UpdateBlogRequestDto>().ReverseMap();
+
+            CreateMap<Contact, ContactDto>().ReverseMap();
         }
     }
 }

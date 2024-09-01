@@ -25,6 +25,7 @@ builder.Services.AddScoped<IFaqRepository, SQLFaqRepository>();
 builder.Services.AddScoped<ISponsorRepository, SQLSponsorRepository>();
 builder.Services.AddScoped<IBCategoryRepository, SQLBCategoryRepository>();
 builder.Services.AddScoped<IBlogRepository, SQLBlogRepository>();
+builder.Services.AddScoped<IContactRepository, SQLContactRepository>();
 
 builder.Services.AddAutoMapper(typeof(AutoMappingProfile));
 

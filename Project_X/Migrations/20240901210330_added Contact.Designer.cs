@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Project_X.Data;
 
@@ -11,9 +12,11 @@ using Project_X.Data;
 namespace Project_X.Migrations
 {
     [DbContext(typeof(DSEMLDbContext))]
-    partial class DSEMLDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240901210330_added Contact")]
+    partial class addedContact
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

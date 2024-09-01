@@ -135,3 +135,4 @@ C:\Users\Mr. Elvin Aliyev\Desktop\ASP Projects\Project_X\Project_X\bin\Debug\net
 C:\Users\Mr. Elvin Aliyev\Desktop\ASP Projects\Project_X\Project_X\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Mr. Elvin Aliyev\Desktop\ASP Projects\Project_X\Project_X\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Mr. Elvin Aliyev\Desktop\ASP Projects\Project_X\Project_X\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Mr. Elvin Aliyev\Desktop\ASP Projects\Project_X\Project_X\obj\Debug\net8.0\Project_X.sourcelink.json

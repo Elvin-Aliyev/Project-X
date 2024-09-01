@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|c:\\users\\mr. elvin aliyev\\desktop\\asp projects\\project_x\\project_x\\data\\dsemldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|solutionrelative:project_x\\data\\dsemldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|c:\\users\\mr. elvin aliyev\\desktop\\asp projects\\project_x\\project_x\\controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|solutionrelative:project_x\\controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|c:\\users\\mr. elvin aliyev\\desktop\\asp projects\\project_x\\project_x\\controllers\\bcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|solutionrelative:project_x\\controllers\\bcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|c:\\users\\mr. elvin aliyev\\desktop\\asp projects\\project_x\\project_x\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|solutionrelative:project_x\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|c:\\users\\mr. elvin aliyev\\desktop\\asp projects\\project_x\\project_x\\models\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|solutionrelative:project_x\\models\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|c:\\users\\mr. elvin aliyev\\desktop\\asp projects\\project_x\\project_x\\repositories\\sqlbcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|solutionrelative:project_x\\repositories\\sqlbcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|c:\\users\\mr. elvin aliyev\\desktop\\asp projects\\project_x\\project_x\\mappings\\automappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|solutionrelative:project_x\\mappings\\automappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|c:\\users\\mr. elvin aliyev\\desktop\\asp projects\\project_x\\project_x\\repositories\\ibcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|solutionrelative:project_x\\repositories\\ibcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|c:\\users\\mr. elvin aliyev\\desktop\\asp projects\\project_x\\project_x\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|solutionrelative:project_x\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|c:\\users\\mr. elvin aliyev\\desktop\\asp projects\\project_x\\project_x\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF519C47-10AF-4ADD-BB3D-4A8F5309E5C5}|Project_X\\Project_X.csproj|solutionrelative:project_x\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,19 +30,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DSEMLDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Data\\DSEMLDbContext.cs",
-              "RelativeDocumentMoniker": "Project_X\\Data\\DSEMLDbContext.cs",
-              "ToolTip": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Data\\DSEMLDbContext.cs",
-              "RelativeToolTip": "Project_X\\Data\\DSEMLDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "DocumentIndex": 3,
+              "Title": "AutoMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Mappings\\AutoMappingProfile.cs",
+              "RelativeDocumentMoniker": "Project_X\\Mappings\\AutoMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Mappings\\AutoMappingProfile.cs",
+              "RelativeToolTip": "Project_X\\Mappings\\AutoMappingProfile.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBcAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T17:12:37.273Z",
+              "WhenOpened": "2024-09-01T21:17:57.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Models\\DTO\\ContactDto.cs",
+              "RelativeDocumentMoniker": "Project_X\\Models\\DTO\\ContactDto.cs",
+              "ToolTip": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Models\\DTO\\ContactDto.cs",
+              "RelativeToolTip": "Project_X\\Models\\DTO\\ContactDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:13:49.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Models\\Domain\\Contact.cs",
+              "RelativeDocumentMoniker": "Project_X\\Models\\Domain\\Contact.cs",
+              "ToolTip": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Models\\Domain\\Contact.cs",
+              "RelativeToolTip": "Project_X\\Models\\Domain\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:13:14.408Z",
               "EditorCaption": ""
             },
             {
@@ -57,59 +79,23 @@
               "RelativeDocumentMoniker": "Project_X\\Controllers\\BCategoriesController.cs",
               "ToolTip": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Controllers\\BCategoriesController.cs",
               "RelativeToolTip": "Project_X\\Controllers\\BCategoriesController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCYAAAANAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowFUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T17:09:52.439Z",
+              "WhenOpened": "2024-09-01T20:18:59.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Program.cs",
-              "RelativeDocumentMoniker": "Project_X\\Program.cs",
-              "ToolTip": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Program.cs",
-              "RelativeToolTip": "Project_X\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAXAAAA",
+              "DocumentIndex": 0,
+              "Title": "ContractsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Controllers\\ContractsController.cs",
+              "RelativeDocumentMoniker": "Project_X\\Controllers\\ContractsController.cs",
+              "ToolTip": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Controllers\\ContractsController.cs",
+              "RelativeToolTip": "Project_X\\Controllers\\ContractsController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAUwEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T16:54:02.514Z",
+              "WhenOpened": "2024-09-01T20:18:48.503Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IBCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Repositories\\IBCategoryRepository.cs",
-              "RelativeDocumentMoniker": "Project_X\\Repositories\\IBCategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Repositories\\IBCategoryRepository.cs",
-              "RelativeToolTip": "Project_X\\Repositories\\IBCategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T16:53:08.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SQLBCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Repositories\\SQLBCategoryRepository.cs",
-              "RelativeDocumentMoniker": "Project_X\\Repositories\\SQLBCategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Repositories\\SQLBCategoryRepository.cs",
-              "RelativeToolTip": "Project_X\\Repositories\\SQLBCategoryRepository.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAkwAwAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T16:53:16.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BlogsController.cs",
-              "DocumentMoniker": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Controllers\\BlogsController.cs",
-              "RelativeDocumentMoniker": "Project_X\\Controllers\\BlogsController.cs",
-              "ToolTip": "C:\\Users\\Mr. Elvin Aliyev\\Desktop\\ASP Projects\\Project_X\\Project_X\\Controllers\\BlogsController.cs",
-              "RelativeToolTip": "Project_X\\Controllers\\BlogsController.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAkwEoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T16:16:03.696Z"
             }
           ]
         }
