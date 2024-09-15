@@ -135,3 +135,11 @@ C:\Users\Mr. Elvin Aliyev\Desktop\ASP Projects\Project_X\Project_X\obj\Release\n
 C:\Users\Mr. Elvin Aliyev\Desktop\ASP Projects\Project_X\Project_X\obj\Release\net8.0\Project_X.pdb
 C:\Users\Mr. Elvin Aliyev\Desktop\ASP Projects\Project_X\Project_X\obj\Release\net8.0\Project_X.genruntimeconfig.cache
 C:\Users\Mr. Elvin Aliyev\Desktop\ASP Projects\Project_X\Project_X\obj\Release\net8.0\ref\Project_X.dll
+C:\Users\Mr. Elvin Aliyev\Desktop\ASP Projects\Project_X\Project_X\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Mr. Elvin Aliyev\Desktop\ASP Projects\Project_X\Project_X\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Mr. Elvin Aliyev\Desktop\ASP Projects\Project_X\Project_X\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Mr. Elvin Aliyev\Desktop\ASP Projects\Project_X\Project_X\bin\Release\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Mr. Elvin Aliyev\Desktop\ASP Projects\Project_X\Project_X\bin\Release\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Mr. Elvin Aliyev\Desktop\ASP Projects\Project_X\Project_X\bin\Release\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Mr. Elvin Aliyev\Desktop\ASP Projects\Project_X\Project_X\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Mr. Elvin Aliyev\Desktop\ASP Projects\Project_X\Project_X\obj\Release\net8.0\Project_X.sourcelink.json

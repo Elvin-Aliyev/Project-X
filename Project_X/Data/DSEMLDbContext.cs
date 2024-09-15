@@ -16,6 +16,7 @@ namespace Project_X.Data
         public DbSet<BCategory> BCategories { get; set; }
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<Contact> Contacts { get; set; }
+        public DbSet<BImage> Bimages { get; set; }
 
     }
 }

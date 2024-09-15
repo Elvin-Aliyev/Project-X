@@ -3,9 +3,4 @@
 https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project>
-  <PropertyGroup>
-    <_PublishTargetUrl>C:\Users\Mr. Elvin Aliyev\Desktop\ASP Projects\Project_X\Project_X\bin\Release\net8.0\publish\</_PublishTargetUrl>
-    <History>True|2024-08-31T17:03:15.8561223Z||;True|2024-08-31T20:59:22.8597587+04:00||;True|2024-08-31T20:57:52.5211890+04:00||;</History>
-    <LastFailureDetails />
-  </PropertyGroup>
 </Project>
