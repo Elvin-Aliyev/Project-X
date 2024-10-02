@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Plaza_DSML.props" />
+</Project>

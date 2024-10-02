@@ -1,0 +1,6 @@
+@Plaza_DSML_HostAddress = http://localhost:5043
+
+GET {{Plaza_DSML_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
